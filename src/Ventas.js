@@ -5,4 +5,7 @@ function precioXItem(p)
 {
   return p; 
 }
-export {cantItem, precioXItem};
+function  precioNeto(n) {
+  return n * 10 ;
+}
+export {cantItem, precioXItem, precioNeto};

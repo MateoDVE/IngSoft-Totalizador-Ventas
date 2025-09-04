@@ -1,4 +1,4 @@
-import {cantItem, precioXItem} from "./Ventas";
+import {cantItem, precioXItem,precioNeto} from "./Ventas";
 
 describe("Totalizar", () => {
   it("deberia mostrar la cantidad de items", () => {
@@ -11,6 +11,10 @@ describe("Totalizar", () => {
 
   it("deberia mostrar el precio por item", () => {
     expect(precioXItem(2)).toEqual(2);
+  });
+
+  it("deberia mostrar el precio Neto", () => {
+    expect(precioNeto(4)).toEqual(40);
   });
 });
 
