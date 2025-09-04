@@ -1,5 +1,8 @@
-function Totalizar(n) {
+function cantItem(n) {
   return n;
 }
-
-export default Totalizar;
+function precioXItem(p)
+{
+  return p; 
+}
+export {cantItem, precioXItem};

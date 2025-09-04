@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "229f1051b11fd3650801d878045c86ceb498a813",
     "author": "Mateo_DVE",
     "commit": {
       "date": "2025-09-04T13:37:20.000Z",
       "message": "feat: Mostrar cualquier cantidad de item",
-      "url": "https://github.com/MateoDVE/IngSoft-Totalizador-Ventas/commit/HEAD"
+      "url": "https://github.com/MateoDVE/IngSoft-Totalizador-Ventas/commit/229f1051b11fd3650801d878045c86ceb498a813"
     },
     "stats": {
       "total": 8,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo_DVE",
+    "commit": {
+      "date": "2025-09-04T13:46:20.000Z",
+      "message": "feat: Precio de cada item",
+      "url": "https://github.com/MateoDVE/IngSoft-Totalizador-Ventas/commit/HEAD"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 20,
+      "deletions": 8,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
