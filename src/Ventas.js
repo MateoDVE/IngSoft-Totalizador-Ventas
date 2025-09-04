@@ -1,5 +1,5 @@
-function Totalizar() {
-  return 5;
+function Totalizar(n) {
+  return n;
 }
 
 export default Totalizar;
